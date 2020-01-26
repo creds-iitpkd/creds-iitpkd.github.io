@@ -166,11 +166,17 @@ a:hover {
 
 .section {
 	margin-top: 27px; 
-	font-size: 12px;
+	font-size: 15px;
 	margin-bottom: 18px;
 	clear: both;
 }
 
+h1 {
+	color: #f39c12;
+	font-size: 22px;
+	line-height: 18px;
+	font-weight: bold;
+}
 h2 {
 	color: #f39c12;
 	font-size: 18px;
