@@ -246,14 +246,20 @@ h2 a {
 }
 
 h3 {
-	color: #f39c12;
+	color: #9900cc;
 	font-weight: bold;
-	font-size: 14px;
+	font-size: 18px;
 	line-height: 18px;
 }
 
 h3 a {
-	color: #f39c12;
+	color: #00cccc;
+}
+
+hc{
+	color: #cccc00;
+	font-family: URW Chancery L;
+	font-size: 40px;
 }
 
 h4 {
