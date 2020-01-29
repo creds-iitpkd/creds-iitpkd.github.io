@@ -404,7 +404,7 @@ iframe {
 
 /* by EL 2010-10-02 */
 #footer {
-	color: #928B81; 
+	color: #918c82; 
 	padding: 13px 0 45px 0;
 	clear: both;
         border-top: 9px solid;
@@ -412,7 +412,8 @@ iframe {
 
 /* by EL 2010-12-04 */
 #footer p {
-        font-size: 12px;
+        font-size: 15px;
+	color: #f39c12;
 }
 
 /* by NE 2010-11-15 */
