@@ -263,6 +263,24 @@ hc{
 	font-size: 40px;
 }
 
+
+hcc{
+	color: #00cc33/*#cc0000*/;
+	/*#00cc33*/
+	font-weight: bold;
+	font-size: 16px;
+}
+
+hbl{
+	font-weight: bold;
+}
+
+hb{
+	color: #cc0000;
+	font-weight: bold;
+	font-size: 16px;
+}
+
 h4 {
 	color: #f39c12;
 	font-size: 12px;
