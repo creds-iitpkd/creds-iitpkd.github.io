@@ -178,6 +178,15 @@ h1 {
 	line-height: 18px;
 	font-weight: bold;
 }
+
+hh {
+	color: #f39c12;
+	font-size: 28px;
+	text-align:center;
+	line-height: 18px;
+	font-weight: bold;
+}
+
 h2 {
 	color: #f39c12;
 	font-size: 18px;
