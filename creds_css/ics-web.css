@@ -284,10 +284,20 @@ hbl{
 	font-weight: bold;
 }
 
-hb{
+hm{
 	color: #cc0000;
 	font-weight: bold;
 	font-size: 16px;
+}
+
+hb{
+	color: #0000cc;
+	font-weight: bold;
+	font-size: 16px;
+}
+hb a{
+	color: #0000cc;
+}
 }
 
 h4 {
